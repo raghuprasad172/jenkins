@@ -6,6 +6,6 @@ import org.testng.annotations.Test;
 public class Demo {
 @Test
 public void test() {
-	
+reporter.log("hi",true);	
 }
 }
